@@ -43,12 +43,12 @@ Pontos Importantes
 - os beneficios sao a longo prazo;
 - praticar ira tornar essa atividade mais facil e rapida, mas sempre irá demorar mais do que nao fazer o uso;
 - possiveis problemas caso o time como um todo nao tenha essa preocupacao:
- - quem faz uso dessas "boas praticas" demora mais pra entregar uma feature;
- - "um limpa, mas o outro suja".
+ - > quem faz uso dessas "boas praticas" demora mais pra entregar uma feature;
+ - > "um limpa, mas o outro suja".
 - o livro possui 3 partes:
- - principios, padroes e praticas para criar um codigo limpo;
- - casos de estudo de complexidade cada vez maior;
- - lista de heuristicas e "odores" reunidos durante a criacao dos estudos de casos.
+ - > principios, padroes e praticas para criar um codigo limpo;
+ - > casos de estudo de complexidade cada vez maior;
+ - > lista de heuristicas e "odores" reunidos durante a criacao dos estudos de casos.
 
 Minhas consideraçoes
 - apesar de todos os beneficios acredito que como tudo na vida existem tradeoff, ou seja, nao devemos impor o que achamos meljor, e sim mostrar as possibilidades e entender junto ao time o que melhor se encaixa naquele momento.
